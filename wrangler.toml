@@ -1,0 +1,4 @@
+name = "fake-price"
+type = "webpack"
+account_id = "ACCOUNT_ID_HERE"
+workers_dev = true

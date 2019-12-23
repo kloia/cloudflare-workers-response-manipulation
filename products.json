@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Brown eggs",
+    "type": "dairy",
+    "description": "Raw organic brown eggs in a basket",
+    "filename": "0.jpg",
+    "height": 600,
+    "width": 400,
+    "price": 58.294328241875824,
+    "rating": 4
+  },
+  {
+    "title": "Sweet fresh stawberry",
+    "type": "fruit",
+    "description": "Sweet fresh stawberry on the wooden table",
+    "filename": "1.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 64.84671958098632,
+    "rating": 4
+  },
+  {
+    "title": "Asparagus",
+    "type": "vegetable",
+    "description": "Asparagus with ham on the wooden table",
+    "filename": "2.jpg",
+    "height": 450,
+    "width": 299,
+    "price": 42.730711516401065,
+    "rating": 3
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "fake-price",
+  "version": "1.0.2",
+  "description": "A template to create a Cloudflare worker that logs errors to Sentry",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write --no-semi --single-quote --print-width 100 --trailing-comma es5 '**/*.{js,css,json,md}'"
+  },
+  "author": "Mehmet Taskiner <mehmettaskiner@kloia.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "pigeon": "github:tlianza/pigeon"
+  }
+}
